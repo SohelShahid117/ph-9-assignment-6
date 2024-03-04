@@ -1,0 +1,66 @@
+https://github.com/Programming-Hero-Web-Course4/b9a6-retro-forum-SohelShahid117
+
+
+https://github.com/Programming-Hero-Web-Course4/b9a6-retro-forum-SohelShahid117/pull/new/master 
+
+
+https://github.com/Programming-Hero-Web-Course4/b9a6-retro-forum-SohelShahid117.git
+
+
+
+
+
+PS C:\programmingHero\b9a6-retro-forum-SohelShahid117> git init 
+Initialized empty Git repository in C:/programmingHero/b9a6-retro-forum-SohelShahid117/.git/
+
+PS C:\programmingHero\b9a6-retro-forum-SohelShahid117> git add .
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'tailwind.config.js', LF will be replaced by CRLF the next time Git touches it
+
+PS C:\programmingHero\b9a6-retro-forum-SohelShahid117> git commit -m "para khaisi"
+ 9 files changed, 64 insertions(+)
+ create mode 100644 PH_Sohel_Private_githubLink.txt
+ create mode 100644 assets/bgBanner.png
+ create mode 100644 assets/joinForummm.png
+ create mode 100644 assets/logoooo.png
+ create mode 100644 forumLandingPg.fig
+ create mode 100644 index.html
+ create mode 100644 landngPgDesign.pdf
+ create mode 100644 landngPgDesign.png
+ create mode 100644 tailwind.config.js
+fatal: No configured push destination.
+Either specify the URL from the command-line or configure a remote repository using
+
+    git remote add <name> <url>
+
+and then push using the remote name
+
+    git push <name>
+
+
+PS C:\programmingHero\b9a6-retro-forum-SohelShahid117> git push https://github.com/Programming-Hero-Web-Coursfatal: The current branch master has no upstream branch.
+To push the current branch and set the remote as upstream, use
+
+    git push --set-upstream https://github.com/Programming-Hero-Web-Course4/b9a6-retro-forum-SohelShahid117.git master
+
+To have this happen automatically for branches without a tracking
+upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+
+PS C:\programmingHero\b9a6-retro-forum-SohelShahid117> git push --set-upstream https://github.com/Programming-Hero-Web-Course4/b9a6-retro-forum-SohelShahid117.git master
+Enumerating objects: 12, done.
+Counting objects: 100% (12/12), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (12/12), done.
+Writing objects: 100% (12/12), 1.64 MiB | 635.00 KiB/s, done.
+Total 12 (delta 0), reused 0 (delta 0), pack-reused 0
+remote: 
+remote: Create a pull request for 'master' on GitHub by visiting:
+remote:      https://github.com/Programming-Hero-Web-Course4/b9a6-retro-forum-SohelShahid117/pull/new/master 
+remote:
+To https://github.com/Programming-Hero-Web-Course4/b9a6-retro-forum-SohelShahid117.git
+ * [new branch]      master -> master
+branch 'master' set up to track 'https://github.com/Programming-Hero-Web-Course4/b9a6-retro-forum-SohelShahid117.git/master'.
+
+
+PS C:\programmingHero\b9a6-retro-forum-SohelShahid117> 
